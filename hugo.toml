@@ -1,17 +1,17 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "爱分享导航站"
+title = "Solicitud🍃🍂墨导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "afx"
+copyright = "Solicitud🍃🍂墨"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，爱分享，科技共享"
+  keywords = "网址导航,webstack,hugo"
   description = "Webstack Hugo版主题,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
@@ -27,7 +27,7 @@ copyright = "afx"
   # true显示按钮，false不显示
   enable = true
   # github文件的远程链接，改成自己的
-  url = "https://github.com/afengxiang/afx/blob/main/data/webstack.yml"
+  url = "https://github.com/a471686674/afxdaohang/blob/main/data/webstack.yml"
   
 #桌面端右上角code按钮
 [params.github]
